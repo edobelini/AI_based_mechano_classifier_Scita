@@ -1,0 +1,1 @@
+# AI_based_mechano_classifier_Scita
